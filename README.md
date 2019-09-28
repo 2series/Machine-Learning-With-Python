@@ -1,3 +1,3 @@
-## "When we raise capital; it's Ai, When we hire it's; Machine Learning, and when we do the work, it's; Logistic Regression." 
+## "When you’re fundraising, it’s artificial intelligence. When you’re hiring, it’s machine learning. When you’re implementing, it’s linear regression. When you’re debugging, it’s printf()" 
 
 ![](https://media.giphy.com/media/mBStmHyhBk9z9U5t6I/giphy.gif)
