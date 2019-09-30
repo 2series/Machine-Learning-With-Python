@@ -28,7 +28,6 @@ Ultimately, a lot of experiment with the data and algorithms are needed to const
 
 The key is to find the sweet spot that minimizes error (bias and variance) by finding the right level of model complexity. Of course with more data any model can improve, and different models may be optimal.
 
-### Following is the intuitive illustration of model complexity curve from Andrew Ng's Machine Learning course
+#### Following is the intuitive illustration of model complexity curve from Andrew Ng's Machine Learning course
 ![complexity_curve](https://raw.githubusercontent.com/tirthajyoti/PythonMachineLearning/master/Images/Complexity_curve_example.PNG)
 
-(https://za.pinterest.com/pin/606860118521989149/?nic=1)
