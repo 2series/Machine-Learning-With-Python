@@ -23,6 +23,7 @@ Ultimately, a lot of experiment with the data and algorithms are needed to const
 *Complexity curve* allows us to verify when a model has learned as much as it can about the data without fitting to the noise. The optimum learning (given the fixed data) occurs when:
 
 > The performances on the training and testing sets reach a plateau
+
 > There is a consistent gap between the two error rates
 
 The key is to find the sweet spot that minimizes error (bias and variance) by finding the right level of model complexity. Of course with more data any model can improve, and different models may be optimal.
