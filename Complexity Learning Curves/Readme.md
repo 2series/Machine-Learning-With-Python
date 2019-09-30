@@ -31,4 +31,4 @@ The key is to find the sweet spot that minimizes error (bias and variance) by fi
 #### Following is the intuitive illustration of model complexity curve from Andrew Ng's Machine Learning course
 ![complexity_curve](images/complexity learning curve.png)
 
-![](complexity learning curve.png)
+![](images/complexity-learning-curve.png)
