@@ -8,7 +8,7 @@ Anomaly detection is a technique used to identify unusual patterns that do not c
 ### What Are Anomalies?
 Anomalies can be broadly categorized as:
 
->Point anomalies: A single instance of data is anomalous if it's too far off from the rest. 
+> Point anomalies: A single instance of data is anomalous if it's too far off from the rest. 
 Business use case: Detecting credit card fraud based on "amount spent."
 
 >Contextual anomalies: The abnormality is context-specific. This type of anomaly is common in time-series data. 
